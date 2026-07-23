@@ -9,7 +9,7 @@
 
 - 🎓 Computer Science Engineering Student
 - 💡 Passionate about solving real-world problems through technology
-- 🚀 Interested in Software Engineering, Full Stack Development, Backend Development, Generative AI, and Artificial Intelligence
+- 🚀 Interested in Backend Development, Generative AI, and Artificial Intelligence
 - 🤝 Always eager to learn, collaborate, and explore emerging technologies
 
 ---
