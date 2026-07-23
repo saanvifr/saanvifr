@@ -1,8 +1,7 @@
 # Hi, I'm Saanvi Singh 🤖
 
 💻 Computer Science Engineering Student  
-🚀 Aspiring Software Engineer passionate about building scalable Full Stack applications, Backend Systems, Generative AI, and AI/ML solutions.  
-🌱 Currently sharpening my Data Structures & Algorithms, Backend Development, and System Design skills while building impactful real-world projects.
+🚀 Aspiring Software Engineer passionate about building scalable Full Stack applications, Backend Systems, Generative AI, and AI/ML solutions. 
 
 ---
 
