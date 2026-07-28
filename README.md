@@ -126,13 +126,22 @@ Python • Flask • Machine Learning • HTML • CSS • JavaScript • MySQL
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saanvifr&show_icons=true&theme=github_dark)
+# 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanvifr&layout=compact&theme=github_dark)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saanvifr&theme=github-dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saanvifr&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvifr&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saanvifr&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
