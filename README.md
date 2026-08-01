@@ -72,6 +72,28 @@ React • TypeScript • FastAPI • Python • Tailwind CSS • Railway • Ver
 
 ---
 
+## 🎵 MuseIQ
+
+An AI-powered Music Catalog Insights Platform that enables users to search albums from the iTunes catalog, build a personal music library, visualize listening analytics, and receive AI-powered recommendations.
+
+### Features
+
+- 🔍 Search albums using the iTunes Search API
+- ❤️ Personal music library with CRUD operations
+- 📊 Interactive analytics dashboard
+- 🤖 AI-powered music recommendations using Google Gemini
+- 🔐 Secure JWT Authentication
+- 📱 Responsive user interface
+
+### Tech Stack
+
+React • Spring Boot • Java • PostgreSQL • JWT • Tailwind CSS • Gemini AI • Vercel • Render
+
+🔗 **Live Demo:** https://saanvifr-museiq.vercel.app
+
+
+---
+
 ## 🧠 ClarityMinds AI
 
 A cognitive wellness platform designed to improve memory, attention, and cognitive health through interactive brain-training exercises and AI-powered insights.
