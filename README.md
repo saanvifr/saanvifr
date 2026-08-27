@@ -109,7 +109,6 @@ A cognitive wellness platform designed to improve memory, attention, and cogniti
 
 React • Spring Boot • PostgreSQL • Three.js
 
-🚧 **Currently Under Development**
 
 ---
 
