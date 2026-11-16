@@ -1,179 +1,215 @@
-# Hey, I'm Saanvi Singh 🤖
+<div align="center">
 
-💻 Computer Science Student  
-🚀 Aspiring Software Engineer passionate about building scalable Full Stack applications, Backend Systems, Generative AI, and AI/ML solutions. 
+# Hey, I'm Saanvi Singh 👋
+
+### 💻 Computer Science Engineering Student | Aspiring Software Engineer
+
+Passionate about building full-stack applications, backend systems, and AI-powered solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-saanvifr-181717?style=for-the-badge&logo=github)](https://github.com/saanvifr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saanvi-singh-9b4550324/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanvi4002@gmail.com)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💡 Passionate about solving real-world problems through technology
-- 🚀 Interested in Backend Development, Generative AI, and Artificial Intelligence
-- 🤝 Always eager to learn, collaborate, and explore emerging technologies
+- 🎓 Computer Science Engineering student graduating in 2027.
+- 💻 Interested in Software Engineering and Backend Development.
+- 🚀 Experienced in building full-stack applications using Java, Spring Boot, and React.
+- 🤖 Exploring Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG).
+- 🧠 Interested in Data Structures, Algorithms, OOP, and Database Management Systems.
+- 🤝 Always eager to learn, collaborate, and build meaningful software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 - Java
 - Python
 - JavaScript
-- TypeScript
 - SQL
+- C
 
 ### ⚙️ Frameworks & Libraries
-- React
 - Spring Boot
+- React.js
 - FastAPI
-- Tailwind CSS
 - Flask
+- Tailwind CSS
+- Three.js
 
 ### 🤖 AI & Machine Learning
 - Generative AI
-- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
+- Scikit-learn
+- Machine Learning
 
 ### 🗄️ Databases
-- PostgreSQL
 - MySQL
+- PostgreSQL
+- Qdrant
 
-### ☁️ Tools & Platforms
+### 🔧 Developer Tools & Platforms
 - Git
 - GitHub
-- Docker
-- Railway
-- Vercel
-- Postman
+- IntelliJ IDEA
 - VS Code
+- Postman
+- Vercel
+- Render
+- Railway
 
 ---
 
 # 🚀 Featured Projects
 
-## ❤️ Aegis Heart
+## 💻 CodePilot AI — AI-Powered Code Analysis Assistant
 
-An AI-powered Heart Disease Prediction Platform that combines Machine Learning with a modern full-stack web application.
+An AI-powered coding assistant that analyzes GitHub repositories and helps developers understand their codebases through context-aware answers.
 
 ### Features
-- 🔐 Secure User Authentication
-- ❤️ Heart Disease Prediction
-- 📊 Interactive Dashboard
-- 📱 Responsive User Interface
-- ⚡ FastAPI Backend
-- 🤖 Machine Learning Integration
+- 🔗 GitHub repository cloning using JGit.
+- 🔍 Java source code analysis using JavaParser.
+- 🧩 Semantic code chunking.
+- 🧠 Embedding-based semantic code retrieval.
+- 🗄️ Vector storage and retrieval using Qdrant.
+- 🤖 RAG-based code explanations and question answering.
+- 📝 AI-assisted code review and test suggestions.
 
 **Tech Stack**
 
-React • TypeScript • FastAPI • Python • Tailwind CSS • Railway • Vercel
-
-🔗 **Live Demo:** https://aegis-heart.vercel.app
+Java • Spring Boot • React • JGit • JavaParser • Qdrant • RAG • Google Gemini API
 
 ---
 
-## 🎵 MuseIQ
+## 🎵 MuseIQ — AI-Powered Music Catalog Insights Platform
 
-An AI-powered Music Catalog Insights Platform that enables users to search albums from the iTunes catalog, build a personal music library, visualize listening analytics, and receive AI-powered recommendations.
-
-### Features
-
-- 🔍 Search albums using the iTunes Search API
-- ❤️ Personal music library with CRUD operations
-- 📊 Interactive analytics dashboard
-- 🤖 AI-powered music recommendations using Google Gemini
-- 🔐 Secure JWT Authentication
-- 📱 Responsive user interface
-
-### Tech Stack
-
-React • Spring Boot • Java • PostgreSQL • JWT • Tailwind CSS • Gemini AI • Vercel • Render
-
-🔗 **Live Demo:** https://saanvifr-museiq.vercel.app
-
-
----
-
-## 🧠 ClarityMinds AI
-
-A cognitive wellness platform designed to improve memory, attention, and cognitive health through interactive brain-training exercises and AI-powered insights.
+A full-stack music discovery platform that allows users to search albums from the iTunes catalog, build personal music libraries, visualize music analytics, and receive AI-powered recommendations.
 
 ### Features
-- 🧩 Brain Training Games
-- 👨‍⚕️ Therapist Dashboard
-- 📈 Progress Analytics
-- 🎯 Personalized User Experience
-- 🤖 AI-assisted Insights
+- 🔍 Search albums using the iTunes Search API.
+- ❤️ Personal music library with CRUD operations.
+- ⭐ Album ratings and personal notes.
+- 📊 Interactive analytics dashboard.
+- 🤖 AI-powered album recommendations using Google Gemini.
+- 🎤 Similar artist suggestions and genre insights.
+- 🔐 JWT-based authentication.
+- 📱 Responsive user interface.
 
 **Tech Stack**
 
-React • Spring Boot • PostgreSQL • Three.js
+Java • Spring Boot • React • MySQL • Spring Security • JWT • Recharts • Google Gemini API
 
+---
+
+## 🧠 ClarityMinds — Cognitive Training Platform
+
+A web-based cognitive training platform designed for users who need support with skills such as memory and attention. It combines interactive brain-training activities with performance tracking and visual progress monitoring.
+
+### Features
+- 🧩 Interactive cognitive training games.
+- 📊 Performance tracking and progress dashboards.
+- 🧠 Interactive 3D brain visualization.
+- 📈 Progress analytics using Recharts.
+- 🤖 AI-assisted report summaries and personalized suggestions.
+- 🔐 User authentication.
+- 📱 Interactive user interface.
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL • Three.js • Google Gemini API
+
+---
+
+## ❤️ Aegis Heart — Heart Disease Prediction Platform
+
+An AI-powered health prediction platform that combines Machine Learning with a full-stack web application to provide heart disease risk predictions.
+
+### Features
+- 🔐 User authentication.
+- ❤️ Heart disease risk prediction.
+- 📊 Interactive dashboard.
+- 🤖 Machine Learning model integration.
+- ⚡ FastAPI backend.
+- 📱 Responsive user interface.
+
+**Tech Stack**
+
+Python • FastAPI • React • TypeScript • PostgreSQL • Scikit-learn
 
 ---
 
 ## 🌱 Soil Analysis & Crop Recommendation System
 
-An intelligent agriculture platform that analyzes soil properties and recommends suitable crops using Machine Learning to support precision farming.
+A machine learning-based agriculture application that analyzes soil properties and recommends suitable crops to support data-driven agricultural decisions.
 
 ### Features
-- 🌾 Soil Nutrient Analysis
-- 🌱 Crop Recommendation using Machine Learning
-- 📊 Data-driven Agricultural Insights
-- 💻 User-friendly Web Interface
+- 🌾 Soil nutrient analysis.
+- 🌱 Crop recommendations using Random Forest.
+- 📊 Data-driven agricultural insights.
+- 💻 User-friendly web interface.
 
 **Tech Stack**
 
-Python • Flask • Machine Learning • HTML • CSS • JavaScript • MySQL
+Python • Flask • MySQL • Scikit-learn • HTML • CSS • JavaScript
 
 ---
 
 ## 📚 Currently Learning
 
-- Java & Spring Boot
-- Backend Engineering
-- REST API Development
-- Generative AI
-- Artificial Intelligence & Machine Learning
+- Java and Advanced OOP Concepts
+- Data Structures and Algorithms
+- Spring Boot and Backend Development
+- SQL and Database Management
+- Generative AI and RAG
+- System Design Fundamentals
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-- 🚀 Become a Software Development Engineer
-- 💻 Build production-ready Full Stack applications
-- 🤖 Explore and build Generative AI applications
-- 🌍 Contribute to impactful open-source projects
+- 🚀 Grow as a Software Development Engineer.
+- 💻 Build reliable and scalable software applications.
+- 🤖 Explore practical applications of Generative AI.
+- 🌍 Contribute to meaningful open-source projects.
+- 📈 Continuously improve problem-solving and engineering skills.
 
 ---
 
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanvifr&theme=github_dark"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanvifr&theme=github_dark" width="95%"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saanvifr&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanvifr&theme=github_dark"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saanvifr&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanvifr&theme=github_dark" width="45%"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanvifr&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saanvifr&theme=github_dark"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanvifr&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saanvifr&theme=github_dark" width="45%"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/saanvi-singh-9b4550324/
-
-📧 **Email**  
-saanvi4002@gmail.com
+- 💼 LinkedIn: [Saanvi Singh](https://www.linkedin.com/in/saanvi-singh-9b4550324/)
+- 🐙 GitHub: [saanvifr](https://github.com/saanvifr)
+- 📧 Email: [saanvi4002@gmail.com](mailto:saanvi4002@gmail.com)
 
 ---
 
-⭐ *Thanks for visiting my profile! I'm always excited to learn new technologies, build meaningful software, and collaborate on innovative projects.*
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+Always learning, building, and exploring new technologies.
+
+</div>
